@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/huberstark/CLionProjects/bootcamp/modules/core/include/Sort.h
+stdio.h
+-
+iostream
+-
+
+/Users/huberstark/CLionProjects/bootcamp/modules/core/test/test.cpp
+boost/test/unit_test.hpp
+-
+../include/Sort.h
+/Users/huberstark/CLionProjects/bootcamp/modules/core/include/Sort.h
+

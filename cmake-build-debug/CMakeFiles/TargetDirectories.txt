@@ -1,0 +1,3 @@
+/Users/huberstark/CLionProjects/bootcamp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/huberstark/CLionProjects/bootcamp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/huberstark/CLionProjects/bootcamp/cmake-build-debug/CMakeFiles/bootcamp.dir
